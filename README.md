@@ -5,11 +5,16 @@
 
 ### '19.7.19 (금)
 
-스터디원 소개 및 Deep Learning with PyTorch: A 60 Minute Blitz 도입부
+스터디원 소개 및 [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 도입부
 
 
 ### '19.7.26 (금)
 
-Deep Learning with PyTorch: A 60 Minute Blitz 나머지 부분
+[Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 나머지 부분
+
+
+### '19.8.9 (금)
+
+[Learning PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) 및 Kaggle [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) 
 
 
