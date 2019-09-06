@@ -18,3 +18,19 @@
 [Learning PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) 및 Kaggle [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) 
 
 
+### '19.8.16 (금)
+
+[Transfer Learning Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) 및 [Saving and Loading Models](https://pytorch.org/tutorials/beginner/saving_loading_models.html) 
+
+
+
+### '19.8.30 (금)
+
+[What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) 
+
+
+
+### '19.9.6 (금)
+
+[TorchVision Object Detection Finetuning Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) 
+
