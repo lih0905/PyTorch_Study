@@ -1,4 +1,4 @@
-# AI Robotics KR - [PyTorch Study](https://github.com/ai-robotics-kr/pytorch_study) ('19.7.19~)
+# AI Robotics KR - [PyTorch Study](https://github.com/ai-robotics-kr/pytorch_study) ('19.7.19 ~ '19.10.18)
 
 스터디에서는 [PyTorch Tutorial](https://pytorch.org/tutorials/)을 같이 공부하였으며,<br>
 여기에는 본인이 공부하며 준비한 내용을 업로드함.
@@ -45,3 +45,15 @@
 ### '19.9.27 (금) (내 발표!)
 
 [Deep Learning for NLP with Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html) 및 [NLP From Scratch: Classifying Names with a Character-Level RNN](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
+
+
+
+### '19.10.11 (금)
+
+[DCGAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+
+
+### '19.10.18 (금)
+
+[Reinforcement Learning (DQN) Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+
